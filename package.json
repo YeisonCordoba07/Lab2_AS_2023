@@ -1,0 +1,31 @@
+{
+  "name": "lab2_as_2023",
+  "version": "1.0.0",
+  "description": "Calculadora basica con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeisonCordoba07/Lab2_AS_2023.git"
+  },
+  "keywords": [
+    "Suma",
+    "resta",
+    "multiplicacion",
+    "division",
+    "y",
+    "raiz",
+    "cuadrada"
+  ],
+  "author": "YEISON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeisonCordoba07/Lab2_AS_2023/issues"
+  },
+  "homepage": "https://github.com/YeisonCordoba07/Lab2_AS_2023#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
